@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish lamichhane</h1>
-<h3 align="center">A passionate Flutter and c# developer from Nepal</h3>
+<h3 align="center">A passionate Flutter developer and AI engineer   from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishlamichhane2000&label=Profile%20views&color=0e75b6&style=flat" alt="anishlamichhane2000" /> </p>
@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/anish_2000" target="blank"><img src="https://img.shields.io/twitter/follow/anish_2000?logo=twitter&style=for-the-badge" alt="anish_2000" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter pet shop app**
+- 🔭 I’m currently working on **Blood Donation Application**
 
-- 🌱 I’m currently learning **C# and django**
+- 🌱 I’m currently learning **AI and flutter **
 
-- 💬 Ask me about **Flutter Andriod**
+- 💬 Ask me about **Flutter and  AI **
 
 - 📫 How to reach me **Anishlamichhane65@gmail.com**
 
